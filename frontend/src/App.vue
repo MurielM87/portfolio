@@ -29,6 +29,8 @@ export default {
 .container {
   width: 1394px;
   margin: 0px auto;
+  color: #fff;
+  background-color: #000;
   @media screen and (max-width: 992px) {
     width: 95%;
   }
@@ -39,8 +41,6 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #fff;
-  background-color: #000;
   margin: auto;
 }
 

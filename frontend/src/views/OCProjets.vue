@@ -3,12 +3,48 @@
     <div>
         <h2>Projets OpenClassroom</h2>
         <div>
-            <div>Projet Bookie</div>
-            <div>Projet Ohmyfood</div>
-            <div>Projet la Chouette Agence</div>
-            <div>Projet Kanap</div>
-            <div>Projet Sauces Piquantes</div>
-            <div>Projet Groupomania</div>
+            <div>
+                <div>Projet Booki</div>
+                <div>
+                    <button>code</button>
+                    <button>page</button>
+                </div>
+            </div>
+            <div>
+                <div>Projet Ohmyfood</div>
+                <div>
+                    <button>code</button>
+                    <button>page</button>
+                </div>
+            </div>
+            <div>
+                <div>Projet la Chouette Agence</div>
+                <div>
+                    <button>code</button>
+                    <button>page</button>
+                </div>
+            </div>           
+            <div>
+                <div>Projet Kanap</div>
+                <div>
+                    <button>code</button>
+                    <button>page</button>
+                </div>
+            </div>
+            <div>
+                <div>Projet Sauces Piquantes</div>
+                <div>
+                    <button>code</button>
+                    <button>page</button>
+                </div>
+            </div>
+            <div>
+                <div>Projet Groupomania</div>
+                <div>
+                    <button>code</button>
+                    <button>page</button>
+                </div>
+            </div>
         </div>
     </div>
 </template>
